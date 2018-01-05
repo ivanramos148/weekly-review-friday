@@ -12,3 +12,12 @@ li {
 ul {
   text-align: center;
 }
+body {
+    background-color: white;
+    color: green;
+}
+img {
+  display: block;
+  margin: auto;
+  width: 50%
+}
