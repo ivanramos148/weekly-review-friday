@@ -1,5 +1,4 @@
 h1 {
-  color: green;
   text-align: center;
 }
 h2 {
@@ -10,21 +9,22 @@ h2 {
 }
 p {
   text-align: center;
+  font-size: 90%
 }
 li {
   text-align: center;
-  font-size: 110%
+  font-size: 140%
 }
 li {
   text-align: center;
-  font-size: 110%
+  font-size: 140%
 }
 ul {
   text-align: center;
 }
 body {
     background-color: white;
-    color: lightblue;
+    color: blue;
 }
 img {
   display: block;
