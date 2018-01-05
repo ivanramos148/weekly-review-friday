@@ -1,5 +1,6 @@
 h1 {
   text-align: center;
+  color: black;
 }
 h2 {
   text-align: center;
@@ -17,9 +18,11 @@ li {
 }
 li {
   text-align: center;
-  font-size: 140%
+  text: 140%
 }
 ul {
+  font-size: 20px;
+  line-height: 30px;
   text-align: center;
 }
 body {
